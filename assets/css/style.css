@@ -569,7 +569,7 @@ section {
 }
 
 .section-bg {
-  background-color: #e6f9ff;
+  background-color: #019ef8;
 }
 
 .section-title {
@@ -598,6 +598,14 @@ section {
 
 .section-title h3 span {
   color: #019ef8;
+}
+
+.section-title h3 .light-bluegreen {
+  color: #5dffff;
+}
+
+.about-subheader{
+  color: #5dffff;
 }
 
 .section-title p {
